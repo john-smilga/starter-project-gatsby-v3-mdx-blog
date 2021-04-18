@@ -6,7 +6,6 @@
 
 1. Layout imported in every page instead of gatsby-browser.js
 2. No Instagram Component
-3. Boring Components First
 
 ## Project Setup
 
